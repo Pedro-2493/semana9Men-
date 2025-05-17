@@ -1,0 +1,1 @@
+Aqui encuentra un menú en el que selecciona un ejercicio y se ejecuta el ejercicio seleccionado, se usaron diferentes estructuras condicionales y clicos como arrays,switch case, do while, for, if, if else. 
